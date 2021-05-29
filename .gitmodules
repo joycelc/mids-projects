@@ -1,0 +1,12 @@
+[submodule "w241project_scifi"]
+	path = w241project_scifi
+	url = https://github.com/lavanyavijayan/w241project_scifi
+[submodule "persona_chatbot"]
+	path = persona_chatbot
+	url = https://github.com/ikaur9/persona_chatbot
+[submodule "classify_data_jobs"]
+	path = classify_data_jobs
+	url = https://github.com/cchan13/classify_data_jobs
+[submodule "ucb_mids_w203"]
+	path = ucb_mids_w203
+	url = https://github.com/joycelc/ucb_mids_w203.git
