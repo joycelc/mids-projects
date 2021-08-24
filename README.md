@@ -11,3 +11,5 @@ Pandemic Fatigue Regression Analysis: ucb_mids_w203 @ e55225f --> lab_2-insert-t
 Gender Bias in Science-Fiction Fantasy Literature: w241project_scifi @ b43e39b
 
 Coffee Review Visualization: https://people.ischool.berkeley.edu/~haleyfarber/index.html
+
+Political Bias in Journalism: https://thepbnjproject.wixsite.com/home
